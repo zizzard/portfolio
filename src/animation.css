@@ -1,0 +1,55 @@
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    visibility: hidden;
+    opacity: 0;
+  }
+}
+
+.Typist .Cursor {
+  display: inline-block;
+}
+
+.Typist .Cursor--blinking {
+  opacity: 1;
+  animation: blink 1s linear infinite;
+}
+
+.fadeIn {
+  animation: fadeIn 0.75s ease;
+  -webkit-animation: fadeIn 0.75s ease;
+  -moz-animation: fadeIn 0.75s ease;
+  -o-animation: fadeIn 0.75s ease;
+  -ms-animation: fadeIn 0.75s ease;
+}
+
+.fadeOut {
+  animation: fadeOut 0.75s ease;
+  -webkit-animation: fadeOut 0.75s ease;
+  -moz-animation: fadeOut 0.75s ease;
+  -o-animation: fadeOut 0.75s ease;
+  -ms-animation: fadeOut 0.75s ease;
+}
