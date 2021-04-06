@@ -24,21 +24,27 @@ function App() {
           <Route exact path="/home" key="home">
             <Header />
             <div className="fadeIn">
-              <Home />
+              <div className="body">
+                <Home />
+              </div>
             </div>
           </Route>
 
           <Route exact path="/about" key="about">
             <Header />
             <div className="fadeIn">
-              <About />
+              <div className="body">
+                <About />
+              </div>
             </div>
           </Route>
 
           <Route exact path="/portfolio" key="portfolio">
             <Header />
             <div className="fadeIn">
-              <Portfolio />
+              <div className="body">
+                <Portfolio />
+              </div>
             </div>
           </Route>
         </Switch>

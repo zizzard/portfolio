@@ -1,10 +1,15 @@
 import "./Landing.css";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Redirect } from "react-router-dom";
 import Typist from "react-typist";
 
 function Landing() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    document.title = "ZACH IZZARD";
+  }, []);
+
   const [displayClick, setDisplayClick] = useState(false);
   const [fadeStatus, setFadeStatus] = useState("landing");
   const [redirectURL, setRedirectURL] = useState("");
