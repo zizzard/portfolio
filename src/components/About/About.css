@@ -1,0 +1,36 @@
+.contact-container,
+.experience-container {
+  padding-bottom: 36px;
+  font-family: Overpass;
+}
+
+.education-container {
+  font-family: Overpass;
+}
+
+.flex-split {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.about-container {
+  width: calc(55% - 22.5px);
+  padding-right: 22.5px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+
+  width: calc(45% - 22.5px);
+  padding-left: 22.5px;
+}
+
+.profile-image {
+  width: 100%;
+  padding-top: 18px;
+  height: max-content;
+  position: sticky;
+  top: 18px;
+}

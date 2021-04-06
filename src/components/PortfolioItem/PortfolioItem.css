@@ -1,0 +1,73 @@
+.portfolio-item-container {
+  padding-bottom: 72px;
+}
+
+.portfolio-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding-top: 10px;
+  padding-bottom: 32px;
+
+  font-size: 28px;
+  font-family: PressStart2P;
+}
+
+.portfolio-header-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.portfolio-id {
+  padding-right: 100px;
+}
+
+.portfolio-title {
+}
+
+.portfolio-year {
+}
+
+.portfolio-content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+
+  height: 100%;
+}
+
+.portfolio-carousel {
+  width: calc(60% - 20px);
+  padding-right: 20px;
+}
+
+.portfolio-body {
+  height: 100%;
+  width: calc(40% - 20px);
+  padding-left: 20px;
+
+  font-family: "Overpass";
+  font-size: 20px;
+
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.portfolio-description {
+}
+
+.portfolio-info {
+}
+
+.portfolio-link {
+  color: black;
+  text-decoration: underline;
+}
+
+.portfolio-image {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,15 @@
+.organization-item-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.organization-left {
+}
+
+.organization-right {
+  padding-left: 10px;
+  display: flex;
+  justify-content: space-around;
+  width: 110px;
+}

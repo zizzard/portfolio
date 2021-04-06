@@ -2,6 +2,10 @@
   background: white;
 }
 
+body {
+  overscroll-behavior-y: none;
+}
+
 .hidden {
   display: none;
 }
@@ -22,14 +26,25 @@
   color: #34a853;
 }
 
-.center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+.title {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "SpaceMono";
+  height: 32px;
+  top: -6px;
+  position: relative;
+}
 
-  font-family: SpaceMono;
-  height: 100vh;
-  width: 100vw;
-  font-size: 32px;
+.body {
+  position: absolute;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  width: calc(100% - 310px);
+  padding: 45px 40px 40px 270px;
 }

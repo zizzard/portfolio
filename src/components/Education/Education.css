@@ -1,0 +1,48 @@
+.education-title-container {
+  padding-bottom: 36px;
+}
+
+.education-title-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.education-title-large {
+  font-size: 24px;
+}
+
+.education-title-small {
+  margin-top: auto;
+}
+
+.coursework-container {
+  padding-bottom: 36px;
+}
+
+.coursework-title-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.coursework-left {
+}
+
+.coursework-right {
+}
+
+.organization-container {
+}
+
+.organization-title-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.organization-left {
+}
+
+.organization-right {
+}

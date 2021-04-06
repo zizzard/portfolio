@@ -1,0 +1,23 @@
+.carousel {
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel-item {
+  height: 100%;
+}
+
+.carousel-image-container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  height: inherit;
+}
+
+.carousel-image {
+  height: auto;
+  max-height: 100%;
+  width: 100%;
+}

@@ -4,16 +4,19 @@ import React, { useState } from "react";
 import { Redirect } from "react-router-dom";
 import Typist from "react-typist";
 
-function Landing({ timeout }) {
+function Landing() {
   const [displayClick, setDisplayClick] = useState(false);
   const [fadeStatus, setFadeStatus] = useState("landing");
   const [redirectURL, setRedirectURL] = useState("");
 
-  setTimeout(() => setDisplayClick(true), timeout);
+  setTimeout(() => {
+    setDisplayClick(true);
+    setFadeStatus("landing pointer");
+  }, 7000);
 
   function clickLanding() {
     if (displayClick) {
-      setFadeStatus("landing fadeOut");
+      setFadeStatus("landing pointer fadeOut");
       setTimeout(() => setFadeStatus("hidden"), 750);
       setTimeout(() => setRedirectURL("home"), 1000);
     }

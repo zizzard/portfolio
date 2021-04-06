@@ -1,0 +1,18 @@
+.coursework-item-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.coursework-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.coursework-id {
+  width: 120px;
+}
+
+.coursework-right {
+  padding-left: 10px;
+}

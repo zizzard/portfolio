@@ -1,0 +1,21 @@
+.contact-title-container {
+  padding-bottom: 36px;
+}
+
+.contact-title {
+  font-size: 24px;
+}
+
+.contact-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.contact-item {
+}
+
+.contact-link {
+  color: black;
+  text-decoration: underline;
+}
