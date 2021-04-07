@@ -29,6 +29,10 @@ function Portfolio() {
               body={project.body}
               linkURL={project.linkURL}
               linkText={project.linkText}
+              linkType={project.linkType}
+              secondaryLinkURL={project.secondaryLinkURL}
+              secondaryLinkText={project.secondaryLinkText}
+              secondaryLinkType={project.secondaryLinkType}
               category={project.category}
               tags={project.tags}
               images={project.images}
