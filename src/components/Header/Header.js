@@ -2,7 +2,7 @@ import "./Header.css";
 
 import React, { useState, useEffect } from "react";
 import Hr from "../Hr/Hr";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 function Header() {
   const [date, setDate] = useState(
@@ -29,21 +29,29 @@ function Header() {
   return (
     <div className="header">
       <div className="header-container">
-        <Link to="/" className="name">
+        <NavLink to="/" className="name">
           ZACH IZZARD
-        </Link>
+        </NavLink>
         <Hr />
         <div className="header-flex-split">
           <div className="upper">
-            <Link to="/home" className="home">
+            <NavLink to="/home" className="home" activeClassName="active-link">
               HOME
-            </Link>
-            <Link to="/portfolio" className="portfolio">
+            </NavLink>
+            <NavLink
+              to="/portfolio"
+              className="portfolio"
+              activeClassName="active-link"
+            >
               PORTFOLIO
-            </Link>
-            <Link to="/about" className="about">
+            </NavLink>
+            <NavLink
+              to="/about"
+              className="about"
+              activeClassName="active-link"
+            >
               ABOUT + CONTACT
-            </Link>
+            </NavLink>
           </div>
           <div className="lower">
             <div className="time">{date}</div>

@@ -11,13 +11,23 @@ function Contact() {
       </div>
       <div className="contact-row">
         <div className="contact-item">Zach Izzard</div>
-        <a className="contact-link" href={Resume}>
+        <a
+          className="contact-link"
+          href={Resume}
+          target="_blank"
+          rel="noreferrer"
+        >
           Resume
         </a>
       </div>
       <div className="contact-row">
         <div className="contact-item">609.731.9486</div>
-        <a className="contact-link" href="https://github.com/zizzard">
+        <a
+          className="contact-link"
+          href="https://github.com/zizzard"
+          target="_blank"
+          rel="noreferrer"
+        >
           GitHub
         </a>
       </div>
@@ -26,6 +36,8 @@ function Contact() {
         <a
           className="contact-link"
           href="https://www.linkedin.com/in/zachizzard/"
+          target="_blank"
+          rel="noreferrer"
         >
           LinkedIn
         </a>

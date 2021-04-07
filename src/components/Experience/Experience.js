@@ -12,7 +12,7 @@ function Experience() {
         title={"Head Course Producer (CSCI 102)"}
         dates={"Aug 2018 to May 2021"}
         body={
-          "Head course producer for CSCI 102 - Fundamentals of Computation starting in the Fall 2018 semester. I hold office hours to assist students outside of lecture, lead lab sections to reinforce material and answer student questions, graded student’s assignments and exams, and coordinated scheduling CP Office Hours."
+          "Head course producer for CSCI 102, Fundamentals of Computation. Held weekly office hours to assist students with course material and homework, led lab sections to supplement lecture information, graded homework and exams, managed other instructors’ schedules, and maintained the course website."
         }
       />
       <ExperienceItem
@@ -21,7 +21,7 @@ function Experience() {
         title={"Software Engineering Intern (Data Experience Team)"}
         dates={"May 2019 to Aug 2019"}
         body={
-          "Intern for Open Ingest team within the Data Experience (dx) Organization. Created a Docker container to host a Pentaho Data Integration instance which was used to run ETL operations on a remote Hadoop YARN Cluster. During a one week project, I built an API to used to serve internal machine learning pipelines."
+          "Intern for Open Ingest team within the Data Experience Organization. Created a Docker container to host a Pentaho Data Integration instance which was used to run ETL operations on a remote Hadoop YARN Cluster through Spark Submit. During Lab Week, I built an API used to serve machine learning pipelines."
         }
       />
       <ExperienceItem
@@ -30,7 +30,7 @@ function Experience() {
         title={"Software Engineering Intern (Bitmark Node Team)"}
         dates={"May 2018 to Aug 2018"}
         body={
-          "Developed a desktop application in the Electron Framework to allow users to seamlessly interact with the Bitmark Node Blockchain and Docker Container. Previously, all interaction with the software was tedious, as it occurred solely in a command line interface."
+          "Created a desktop user interface for the Bitmark Node blockchain through ElectronJS to allow for seamless user interaction. At the time, all interaction with the blockchain occurred through the difficult to setup and tedious Docker command-line interface."
         }
       />
     </>

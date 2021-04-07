@@ -13,6 +13,12 @@ function Organization() {
         timeframe2={"2021"}
       />
       <OrganizationItem
+        org={"Curated in USC Roski Gallery"}
+        position={"Repeat, Repeat, Repeat"}
+        timeframe1={"2020"}
+        timeframe2={"2020"}
+      />
+      <OrganizationItem
         org={"AAAI Student Chapter At USC"}
         position={"Treasurer, Social Media Manager (E-Board)"}
         timeframe1={"2019"}

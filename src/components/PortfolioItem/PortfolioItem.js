@@ -60,7 +60,7 @@ function PortfolioItem({
       </div>
       <div className="portfolio-content">
         <div className="portfolio-carousel">
-          <ImageCarousel images={images} />
+          <ImageCarousel images={images} height={height} />
         </div>
         <div className="portfolio-body" style={{ height: height }}>
           <div className="portfolio-description">{body}</div>

@@ -1,0 +1,41 @@
+.tags-container {
+  display: flex;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.tags-title {
+  font-size: 28px;
+  font-family: PressStart2P;
+  padding-right: 32px;
+  margin: auto;
+}
+
+.tags {
+  font-family: "Overpass";
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.tag,
+.tag-active {
+  white-space: nowrap;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: 0.5s;
+}
+
+.tag-active {
+  font-weight: bold;
+  color: black;
+}
+
+.tag {
+  color: #888;
+}
+
+.tag:hover {
+  color: black;
+}

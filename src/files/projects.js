@@ -1,10 +1,10 @@
 const projects = [
   {
     id: 19,
-    title: "Sienna - Single Cover",
+    title: "Sienna - Randi Cover",
     year: "2021",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In early 2021, I was asked to design the cover for Randi’s first-ever single. The cover itself was inspired by listening to the song and pulling in references from the singer’s life. Additionally, I generated a video to be posted to Instagram stories to promote the song before its release.",
     linkURL: "https://open.spotify.com/album/7IP7AWnX1yQ0hqB4ENe4Ks",
     linkText: "Spotify",
     linkType: "href",
@@ -20,7 +20,7 @@ const projects = [
     title: "Fantasy Meets Reality",
     year: "2021",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "This series of four photos are the result of a month-long experimentation with color. Inspired by an accidental image editing glitch, I delved into the limits of Photoshop, attempting to blur the lines of reality and fantasy. Eventually, I turned this bug into a reproducible process that allows me to translate the fantasy landscapes I dream into the real world.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -41,7 +41,7 @@ const projects = [
     title: "LA Metro Rebrand",
     year: "2021",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In my Design III course, I was tasked with modifying an existing brand to better fit the modern world. For this project, I wanted to redesign the LA Metro to better serve the city having read a study about that women and non-binary people are impacted by the current metro. The ideation phase of this project centered around policy changes to make the metro safer, while the design phase focused on communicating these changes to the LA community in Metro’s existing branding language.",
     linkURL: "metro_pdf",
     linkText: "Full Project (PDF)",
     linkType: "metro_pdf",
@@ -66,10 +66,10 @@ const projects = [
   },
   {
     id: 16,
-    title: "Root's Resturant COVID-19 Line",
+    title: "Roots Restaurant COVID-19 Line",
     year: "2021",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "For my first Design III project, I redesigned the line outside my favorite hometown restaurant Roots. Throughout the COVID-19 pandemic, Roots has struggled with properly managing its order pick-up, often causing customers to wait for long periods of time within close quarters of other customers. In this project, I introduce a series of solutions to better the line waiting experience and allow customers to give back while waiting.",
     linkURL: "roots_pdf",
     linkText: "Full Project (PDF)",
     linkType: "roots_pdf",
@@ -96,7 +96,7 @@ const projects = [
     title: "Center Earth - Fashion Brand",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In the second half of my Graphic Design in Fashion course, I had the chance to develop my own brand and the first collection. Center Earth focused on creating high-quality and sustainable clothing, with a heavy emphasis on screen-printed designs. At the end of the project, I produced both a lookbook and brand advertising materials, along with a screen-printed sample t-shirt.",
     linkURL: "ce_lookbook_pdf",
     linkText: "F/W 2020 Lookbook (PDF)",
     linkType: "ce_lookbook_pdf",
@@ -121,7 +121,7 @@ const projects = [
     title: "Anna Sui Rebrand",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "I was tasked with re-designing Anna Sui’s eponymous brand in the first half of my Graphic Design in Fashion course. In doing so, I had the chance to explore fashion illustration and pattern making while learning the basics of the fashion world. In the process, I created a series of sweatsuits, sunglasses, perfume, some all-over prints, and other brand collateral.",
     linkURL: "as_project_pdf",
     linkText: "Full Project (PDF)",
     linkType: "as_project_pdf",
@@ -146,7 +146,7 @@ const projects = [
     title: "Learn To Code",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "For the final project of my Design II course, I was given the chance to create a guide to help someone learn a new skill in the global pandemic.  Inspired by a classmate telling me I helped them understand CSS for the first time, I created a guide to help people learn the basics of web development. Throughout I leave helpful tips and tricks that I have picked up throughout my life as a web developer.",
     linkURL: "https://learntocode.zachizzard.com",
     linkText: "learntocode.zachizzard.com",
     linkType: "href",
@@ -166,7 +166,7 @@ const projects = [
     title: "2020 Voting Posters",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      'In my Design II course, I was given the chance to create a poster to encourage people to vote in the 2020 election. The first poster was intended to be a risograph print, however, I was unable to get access to my university’s printer due to the pandemic. This poster focused on the unnecessary death toll of the pandemic visualized through a heat-map that I generated in Python. For the second poster, we had to redesign the first poster in a randomly assigned genre for which I was given "time-travel."',
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -191,7 +191,7 @@ const projects = [
     title: "Emma's Movie Cafe",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "For the first major project of my Design II class, I had to create a brand for another student in my class. My partner Emma emphasized her love for classic movies and tea, which resulted in Emma’s Movie Cafe, a redesigned movie theater for the COVID-19 pandemic. Each movie theater box allowed for a family to order food & drink and watch both new and classic movies in a safe environment.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -210,7 +210,7 @@ const projects = [
     title: "Number Set Design",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "Inspired by the Walker Art Museum typeface, I was tasked with creating a modular numeric typeface in my Typography II class. The base form is a series of hand-drawn numbers created from the style of bubble letters that I have been doodling my entire life. The remaining designs are intended to be fixtures that can be offered as additional versions of typeface.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -232,7 +232,7 @@ const projects = [
     title: "Attorney-Client Privilege Database",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "For my senior capstone course, my group mates and I worked with the Los Angeles County Prosecutors Office to create a database and corresponding user interface to protect an individual's right to private communications with their lawyer. Users were able to upload a CSV containing state-wide lawyer contact information which could then be searched by email or phone number. On this project, I led the front-end development and worked on the back-end to create the communication pipeline between the UI and database.",
     linkURL: "https://github.com/shreyahavaldar/ATClipper",
     linkText: "GitHub Repository",
     linkType: "href",
@@ -256,7 +256,7 @@ const projects = [
     title: "Spotify Stats",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In the summer of 2020, I created a site that I envisioned long before I knew how to properly code. Music has always been a huge part of my life and as a long-time Spotify user, I wished there was a better way to track my listening habits. Thus, I created this simple site that allows Spotify Premium members to see their top artists and songs for the past month, half-year, and the entirety of their account.",
     linkURL: "https://spotify.zachizzard.com",
     linkText: "spotify.zachizzard.com",
     linkType: "href",
@@ -275,7 +275,7 @@ const projects = [
     title: "Tempo - Smino Cover Content",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In March of 2020, musician Smino asked fans to design him a cover for his upcoming single Tempo declaring he would pick a winner the following day. Within a couple of hours, I came up with the seen design, however, I was unfortunately not selected as a winner of the cover contest. ",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -291,7 +291,7 @@ const projects = [
     title: "AAAI Club Posters",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In efforts to help bolster the image of my university’s Association for the Advancement of Artificial Intelligence branch, I helped to create graphics for a workshop and panel. Both posters were done in the style of other posters created FISK, one of my favorite design studios. Additionally, I lead the information portion of the perceptron workshop.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -310,7 +310,7 @@ const projects = [
     title: "Starstruck - Album Cover",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "Inspired by some of Virgil Abloh’s early work, I used this project to take a shot at designing my first album cover. While the concept was never used, the skills I learned in this project would later inform my first actual album cover design for the same artist.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -318,13 +318,7 @@ const projects = [
     secondaryLinkText: "",
     secondaryLinkType: "href",
     category: "Album Art",
-    tags: [
-      "Illustrator",
-      "Photoshop",
-      "Album Art",
-      "DES 332A",
-      "Design Course",
-    ],
+    tags: ["Illustrator", "Photoshop", "Album Art", "Personal Project"],
     images: [require("./portfolio_data/5_starstruck/0.jpg")],
   },
   {
@@ -332,7 +326,7 @@ const projects = [
     title: "Microbe Typeface",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In my Typography I class, we were given the chance to design our own typeface. For this project, I worked with a gridded layout, essentially connecting the dots to create each letterform in Illustrator. I then used font-making software to turn the series of letters and numbers into a useable typeface.",
     linkURL: "microbe_otf",
     linkText: "Font Download (OTF)",
     linkType: "microbe_otf",
@@ -348,7 +342,7 @@ const projects = [
     title: "Piecework Project",
     year: "2020",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "For the final project of my introductory design course, I created a series of designs that held the same base structure with each design differing in color. Each panel was created through 86 hand-cut bristol board pieces which were later painted with gouache to represent one of three color schemes (monochrome, primary, and complementary, respectively).",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -368,7 +362,7 @@ const projects = [
     title: "Summer Film Series",
     year: "2019",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In the summer of 2019, I received my first film camera. This portfolio item is dedicated to my first two rolls of film with that camera, documenting a road trip from Denver to Los Angeles with my family and a day at Laguna beach with my friends.",
     linkURL: "",
     linkText: "",
     linkType: "href",
@@ -392,7 +386,7 @@ const projects = [
     title: "Perigo",
     year: "2018",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "To help USC students better exchange goods with their classmates, my group mates and I created Perigo during our Software Design course. I lead the front-end development for this project and helped to create the Firebase CMS for image uploads.",
     linkURL: "https://github.com/hariria/perigo",
     linkText: "GitHub Repository",
     linkType: "href",
@@ -416,7 +410,7 @@ const projects = [
     title: "Bitmark Node App",
     year: "2018",
     body:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam lacus, mollis vel felis a, suscipit tempus justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pellentesque in lacus eu hendrerit. Vestibulum efficitur neque lectus, vel ornare velit tincidunt non. Quisque non ex massa. Sed rutrum nec sapien ac bibendum. Curabitur cursus pulvinar rhoncus. Nam porttitor metus ut mattis pulvinar. Sed tempor sapien ac mi pulvinar blandit at sit.",
+      "In the summer of 2018, I worked at Bitmark, Inc. a company that uses blockchain technology to create secure and verifiable transactions. I worked on their Bitmark Node team and created a desktop user interface for their blockchain user endpoint. Previously, all communication with the blockchain occurred through a docker container, which was very tedious to set up and often error-prone. This software enabled an end-user to easily connect with the system and monitor its progress.",
     linkURL: "https://github.com/bitmark-inc/bitmark-node-app",
     linkText: "GitHub Repository",
     linkType: "href",

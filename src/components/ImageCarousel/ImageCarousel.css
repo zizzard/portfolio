@@ -21,3 +21,17 @@
   max-height: 100%;
   width: 100%;
 }
+
+.fa-chevron-left {
+  stroke: black;
+  stroke-opacity: 0.8;
+  stroke-width: 10px;
+  font-size: 20px;
+}
+
+.fa-chevron-right {
+  stroke: black;
+  stroke-opacity: 0.8;
+  stroke-width: 10px;
+  font-size: 20px;
+}

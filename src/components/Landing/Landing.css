@@ -9,6 +9,22 @@
   width: 100vw;
 }
 
+.blue {
+  color: #4285f4;
+}
+
+.red {
+  color: #ea4335;
+}
+
+.yellow {
+  color: #fbbc05;
+}
+
+.green {
+  color: #34a853;
+}
+
 @media screen and (min-width: 700px) {
   .landing-height {
     height: 300px;
