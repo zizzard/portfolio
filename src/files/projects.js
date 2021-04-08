@@ -232,7 +232,7 @@ const projects = [
     title: "Attorney-Client Privilege DB",
     year: "2020",
     body:
-      "For my senior capstone course, my group mates and I worked with the Los Angeles County Prosecutors Office to create a database and corresponding user interface to protect an individual's right to private communications with their lawyer. Users were able to upload a CSV containing state-wide lawyer contact information which could then be searched by email or phone number. On this project, I led the front-end development and worked on the back-end to create the communication pipeline between the UI and database.",
+      "For my senior capstone course, my group mates and I worked with the Los Angeles County District Attorney's Office to create a database and corresponding user interface to protect an individual's right to private communications with their lawyer. Users were able to upload a CSV containing state-wide lawyer contact information which could then be searched by email or phone number. On this project, I led the front-end development and worked on the back-end to create the communication pipeline between the UI and database.",
     linkURL: "https://github.com/shreyahavaldar/ATClipper",
     linkText: "GitHub Repository",
     linkType: "href",
