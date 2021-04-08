@@ -19,8 +19,10 @@ function Home() {
 
   return (
     <>
-      <div className="title">WELCOME HOME</div>
-      <Hr />
+      <div className="home-title-container">
+        <div className="title">WELCOME HOME</div>
+        <Hr />
+      </div>
       <AboutText />
       <Hr />
 

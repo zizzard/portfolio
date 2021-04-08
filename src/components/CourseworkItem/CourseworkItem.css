@@ -16,3 +16,146 @@
 .coursework-right {
   padding-left: 10px;
 }
+
+@media screen and (min-width: 1340px) and (max-width: 1680px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 16px;
+  }
+
+  .coursework-id {
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 1220px) and (max-width: 1340px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 14px;
+  }
+
+  .coursework-id {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1220px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 12px;
+  }
+
+  .coursework-id {
+    width: 70px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1050px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 11px;
+  }
+
+  .coursework-id {
+    width: 65px;
+  }
+}
+
+@media screen and (min-width: 740px) and (max-width: 1000px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 18px;
+  }
+
+  .coursework-id {
+    width: 120px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 740px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 16px;
+  }
+
+  .coursework-id {
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 530px) and (max-width: 640px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 14px;
+  }
+
+  .coursework-id {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 455px) and (max-width: 530px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 12px;
+  }
+
+  .coursework-id {
+    width: 70px;
+  }
+}
+
+@media screen and (min-width: 420px) and (max-width: 455px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 11px;
+  }
+
+  .coursework-id {
+    width: 65px;
+  }
+}
+
+@media screen and (min-width: 385px) and (max-width: 420px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 10px;
+  }
+
+  .coursework-id {
+    width: 60px;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 385px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 9px;
+  }
+
+  .coursework-id {
+    width: 50px;
+  }
+}
+
+@media screen and (min-width: 325px) and (max-width: 350px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 8px;
+  }
+
+  .coursework-id {
+    width: 50px;
+  }
+}
+
+@media screen and (min-width: 0px) and (max-width: 325px) {
+  .coursework-left,
+  .coursework-right {
+    font-size: 8px;
+  }
+
+  .coursework-id {
+    width: 45px;
+  }
+}

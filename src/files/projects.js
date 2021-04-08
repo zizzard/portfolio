@@ -66,7 +66,7 @@ const projects = [
   },
   {
     id: 16,
-    title: "Roots Restaurant COVID-19 Line",
+    title: "Roots Restaurant Line",
     year: "2021",
     body:
       "For my first Design III project, I redesigned the line outside my favorite hometown restaurant Roots. Throughout the COVID-19 pandemic, Roots has struggled with properly managing its order pick-up, often causing customers to wait for long periods of time within close quarters of other customers. In this project, I introduce a series of solutions to better the line waiting experience and allow customers to give back while waiting.",
@@ -229,7 +229,7 @@ const projects = [
   },
   {
     id: 9,
-    title: "Attorney-Client Privilege Database",
+    title: "Attorney-Client Privilege DB",
     year: "2020",
     body:
       "For my senior capstone course, my group mates and I worked with the Los Angeles County Prosecutors Office to create a database and corresponding user interface to protect an individual's right to private communications with their lawyer. Users were able to upload a CSV containing state-wide lawyer contact information which could then be searched by email or phone number. On this project, I led the front-end development and worked on the back-end to create the communication pipeline between the UI and database.",

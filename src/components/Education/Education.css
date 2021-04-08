@@ -46,3 +46,171 @@
 
 .organization-right {
 }
+
+@media screen and (min-width: 1340px) and (max-width: 1680px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 18px;
+  }
+
+  .education-title-large {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1220px) and (max-width: 1340px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 16px;
+  }
+
+  .education-title-large {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1220px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 14px;
+  }
+
+  .education-title-large {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1050px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 12px;
+  }
+
+  .education-title-large {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 740px) and (max-width: 1000px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 20px;
+  }
+
+  .education-title-large {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 740px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 18px;
+  }
+
+  .education-title-large {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 530px) and (max-width: 640px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 16px;
+  }
+
+  .education-title-large {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 455px) and (max-width: 530px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 14px;
+  }
+
+  .education-title-large {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 420px) and (max-width: 455px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 12px;
+  }
+
+  .education-title-large {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 385px) and (max-width: 420px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 11px;
+  }
+
+  .education-title-large {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 385px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 10px;
+  }
+
+  .education-title-large {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 0px) and (max-width: 350px) {
+  .coursework-title-left,
+  .coursework-title-right,
+  .organization-title-left,
+  .organization-title-right,
+  .education-title {
+    font-size: 9px;
+  }
+
+  .education-title-large {
+    font-size: 11px;
+  }
+}

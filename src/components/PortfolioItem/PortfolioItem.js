@@ -29,11 +29,25 @@ function PortfolioItem({
   images,
 }) {
   const [height, setHeight] = useState("");
+  const [bodyHeight, setBodyHeight] = useState("");
 
   useLayoutEffect(() => {
     function handleResize() {
-      let height = ((window.innerWidth - 310) * 0.6 - 20) * (2 / 3) + 11;
+      let height = 0;
+      if (window.innerWidth > 1000) {
+        height = ((window.innerWidth - 310) * 0.6 - 20) * (2 / 3) + 11;
+      } else if (window.innerWidth > 600 && window.innerWidth <= 1000) {
+        height = (window.innerWidth - 80) * (2 / 3) + 11;
+      } else {
+        height = (window.innerWidth - 40) * (2 / 3) + 11;
+      }
+
       setHeight(height + "px");
+      if (window.innerWidth <= 1000) {
+        setBodyHeight("100%");
+      } else {
+        setBodyHeight(height + "px");
+      }
     }
 
     window.addEventListener("resize", handleResize);
@@ -62,7 +76,7 @@ function PortfolioItem({
         <div className="portfolio-carousel">
           <ImageCarousel images={images} height={height} />
         </div>
-        <div className="portfolio-body" style={{ height: height }}>
+        <div className="portfolio-body" style={{ height: bodyHeight }}>
           <div className="portfolio-description">{body}</div>
           <div>
             <div className="portfolio-info">

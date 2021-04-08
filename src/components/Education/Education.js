@@ -28,10 +28,10 @@ function Education() {
       </div>
       <div className="coursework-container">
         <div className="coursework-title-row">
-          <div className="coursework-left">
+          <div className="coursework-title-left">
             <b>RELEVANT COURSEWORK</b>
           </div>
-          <div className="coursework-right">
+          <div className="coursework-title-right">
             <b>SEMESTER</b>
           </div>
         </div>

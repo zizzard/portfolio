@@ -32,9 +32,7 @@ function Coursework() {
           semester={"Fall 2020"}
         />
         <CourseworkItem
-          title={
-            "CSCI 401: Design and Construction of Large Software Systems (Capstone)"
-          }
+          title={"CSCI 401: Design and Construction of Large Software Systems"}
           semester={"Fall 2020"}
         />
         <CourseworkItem
@@ -90,7 +88,7 @@ function Coursework() {
           semester={"Spring 2019"}
         />
         <CourseworkItem
-          title={"CSCI 499: Concepts of Programming Languages (Special Topics)"}
+          title={"CSCI 499: Concepts of Programming Languages"}
           semester={"Spring 2019"}
         />
       </div>

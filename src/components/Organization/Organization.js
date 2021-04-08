@@ -19,7 +19,7 @@ function Organization() {
         timeframe2={"2020"}
       />
       <OrganizationItem
-        org={"AAAI Student Chapter At USC"}
+        org={"AAAI @ USC"}
         position={"Treasurer, Social Media Manager (E-Board)"}
         timeframe1={"2019"}
         timeframe2={"2020"}

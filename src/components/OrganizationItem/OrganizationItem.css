@@ -13,3 +13,123 @@
   justify-content: space-around;
   width: 110px;
 }
+
+@media screen and (min-width: 1340px) and (max-width: 1680px) {
+  .organization-item-container {
+    font-size: 16px;
+  }
+
+  .organization-right {
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 1220px) and (max-width: 1340px) {
+  .organization-item-container {
+    font-size: 14px;
+  }
+
+  .organization-right {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 1050px) and (max-width: 1220px) {
+  .organization-item-container {
+    font-size: 12px;
+  }
+
+  .organization-right {
+    width: 70px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1050px) {
+  .organization-item-container {
+    font-size: 11px;
+  }
+
+  .organization-right {
+    width: 65px;
+  }
+}
+
+@media screen and (min-width: 740px) and (max-width: 1000px) {
+  .organization-item-container {
+    font-size: 18px;
+  }
+
+  .organization-right {
+    width: 120px;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 740px) {
+  .organization-item-container {
+    font-size: 16px;
+  }
+
+  .organization-right {
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 530px) and (max-width: 640px) {
+  .organization-item-container {
+    font-size: 14px;
+  }
+
+  .organization-right {
+    width: 85px;
+  }
+}
+
+@media screen and (min-width: 455px) and (max-width: 530px) {
+  .organization-item-container {
+    font-size: 12px;
+  }
+
+  .organization-right {
+    width: 70px;
+  }
+}
+
+@media screen and (min-width: 420px) and (max-width: 455px) {
+  .organization-item-container {
+    font-size: 11px;
+  }
+
+  .organization-right {
+    width: 65px;
+  }
+}
+
+@media screen and (min-width: 385px) and (max-width: 420px) {
+  .organization-item-container {
+    font-size: 10px;
+  }
+
+  .organization-right {
+    width: 60px;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 385px) {
+  .organization-item-container {
+    font-size: 9px;
+  }
+
+  .organization-right {
+    width: 50px;
+  }
+}
+
+@media screen and (min-width: 0px) and (max-width: 350px) {
+  .organization-item-container {
+    font-size: 8px;
+  }
+
+  .organization-right {
+    width: 50px;
+  }
+}

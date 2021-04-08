@@ -34,3 +34,24 @@
   position: sticky;
   top: 18px;
 }
+
+@media screen and (min-width: 0px) and (max-width: 1000px) {
+  .flex-split {
+    flex-direction: column;
+  }
+
+  .about-container {
+    width: 100%;
+    padding-right: 0px;
+  }
+
+  .image-container {
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  .contact-container,
+  .experience-container {
+    padding-bottom: 0px;
+  }
+}

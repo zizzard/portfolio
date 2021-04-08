@@ -2,7 +2,7 @@ import "./App.css";
 import "./animation.css";
 import "./fonts.css";
 
-import React from "react";
+import React, { useState, useLayoutEffect } from "react";
 
 import Header from "./components/Header/Header";
 import Landing from "./components/Landing/Landing";
@@ -13,6 +13,23 @@ import Portfolio from "./components/Portfolio/Portfolio";
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
+  const [width, setWidth] = useState(window.innerWidth);
+
+  useLayoutEffect(() => {
+    function handleResize() {
+      setWidth(window.innerWidth);
+    }
+
+    window.addEventListener("resize", handleResize);
+    handleResize();
+    return () => window.removeEventListener("resize", handleResize);
+  });
+
+  let body_class = "body";
+  if (width <= 1000) {
+    body_class = "body no_padding_top";
+  }
+
   return (
     <div className="App">
       <Router key="root">
@@ -33,7 +50,7 @@ function App() {
           <Route exact path="/about" key="about">
             <Header />
             <div className="fadeIn">
-              <div className="body">
+              <div className={body_class}>
                 <About />
               </div>
             </div>
@@ -42,7 +59,7 @@ function App() {
           <Route exact path="/portfolio" key="portfolio">
             <Header />
             <div className="fadeIn">
-              <div className="body">
+              <div className={body_class}>
                 <Portfolio />
               </div>
             </div>
