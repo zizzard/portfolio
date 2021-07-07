@@ -67,6 +67,16 @@
   text-decoration: underline;
 }
 
+.portfolio-link {
+  transition: 0.5s;
+}
+
+.portfolio-link:hover {
+  color: #888;
+  transition: 0.3s;
+  cursor: none;
+}
+
 .portfolio-image {
   max-width: 100%;
   height: auto;

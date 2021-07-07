@@ -18,6 +18,13 @@
 .contact-link {
   color: black;
   text-decoration: underline;
+  transition: 0.5s;
+}
+
+.contact-link:hover {
+  color: #888;
+  transition: 0.3s;
+  cursor: none;
 }
 
 @media screen and (min-width: 1340px) and (max-width: 1680px) {

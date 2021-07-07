@@ -10,6 +10,8 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Portfolio from "./components/Portfolio/Portfolio";
 
+import Rainbow from "./components/Rainbow/Rainbow";
+
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -32,6 +34,7 @@ function App() {
 
   return (
     <div className="App">
+      <Rainbow />
       <Router key="root">
         <Switch>
           <Route exact path="/" key="landing">

@@ -1,7 +1,6 @@
 import "./Contact.css";
 
 import React from "react";
-import Resume from "../../files/resume.pdf";
 
 function Contact() {
   return (
@@ -11,14 +10,7 @@ function Contact() {
       </div>
       <div className="contact-row">
         <div className="contact-item">Zach Izzard</div>
-        <a
-          className="contact-link"
-          href={Resume}
-          target="_blank"
-          rel="noreferrer"
-        >
-          Resume
-        </a>
+        <div></div>
       </div>
       <div className="contact-row">
         <div className="contact-item">609.731.9486</div>

@@ -5,7 +5,7 @@ import { forceCheck } from "react-lazyload";
 import Hr from "../Hr/Hr";
 import PortfolioItem from "../PortfolioItem/PortfolioItem";
 
-import projects from "../../files/projects.js";
+import projects from "../../files/projects-cs.js";
 
 function Portfolio() {
   useEffect(() => {
@@ -216,9 +216,6 @@ function Portfolio() {
       <div className="title">PORTFOLIO</div>
       <Hr />
       <div className="tags-container">
-        <div className="tags-title">
-          <b>TAGS</b>
-        </div>
         <div className="tags">
           <div className={allTag ? "tag-active" : "tag"} onClick={clickAll}>
             All

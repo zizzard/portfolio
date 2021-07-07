@@ -36,3 +36,8 @@
   stroke-width: 10px;
   font-size: 20px;
 }
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  cursor: none !important;
+}

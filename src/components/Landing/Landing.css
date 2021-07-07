@@ -9,6 +9,10 @@
   width: 100vw;
 }
 
+.landing:hover {
+  cursor: inherit;
+}
+
 .blue {
   color: #4285f4;
 }

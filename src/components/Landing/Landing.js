@@ -38,9 +38,10 @@ function Landing() {
               cursor={{ hideWhenDone: true, hideWhenDoneDelay: 450 }}
             >
               Hello! I am <b>Zach Izzard</b>
-              <Typist.Delay ms={200} />, a <span className="blue">student</span>
-              , <span className="red">programmer</span>,{" "}
-              <span className="yellow">designer</span>, and{" "}
+              <Typist.Delay ms={200} />, a{" "}
+              <span className="blue">programmer</span>,{" "}
+              <span className="red">designer</span>,{" "}
+              <span className="yellow">data nerd</span>, and{" "}
               <span className="green">music lover</span>, and I would like to
               welcome you to my website :)
             </Typist>

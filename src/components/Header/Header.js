@@ -3,6 +3,7 @@ import "./Header.css";
 import React, { useState, useEffect, useLayoutEffect } from "react";
 import Hr from "../Hr/Hr";
 import { NavLink } from "react-router-dom";
+import Resume from "../../files/resume.pdf";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faHome } from "@fortawesome/free-solid-svg-icons";
@@ -111,6 +112,9 @@ function Header() {
             >
               ABOUT + CONTACT
             </NavLink>
+            <a className="about" href={Resume} target="_blank" rel="noreferrer">
+              RESUME
+            </a>
           </div>
           <div className="lower">
             <div className="time">{date}</div>

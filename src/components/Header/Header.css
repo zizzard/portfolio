@@ -87,6 +87,7 @@
 .portfolio:hover {
   color: #888;
   transition: 0.3s;
+  cursor: none;
 }
 
 .header-hr-container {
