@@ -1,11 +1,11 @@
 .contact-container,
 .experience-container {
   padding-bottom: 36px;
-  font-family: Overpass;
+  font-family: Overpass, sans-serif;
 }
 
 .education-container {
-  font-family: Overpass;
+  font-family: Overpass, sans-serif;
 }
 
 .flex-split {

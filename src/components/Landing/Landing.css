@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
 
-  font-family: SpaceMono;
+  font-family: SpaceMono, sans-serif;
   height: 100vh;
   width: 100vw;
 }

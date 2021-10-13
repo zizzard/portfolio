@@ -44,7 +44,7 @@
 .upper {
   display: flex;
   flex-direction: column;
-  font-family: Overpass;
+  font-family: Overpass, sans-serif;
 }
 
 .name {

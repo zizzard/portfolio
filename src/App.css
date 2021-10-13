@@ -29,7 +29,7 @@ body {
   color: black;
   font-size: 30px;
   font-weight: bold;
-  font-family: "SpaceMono";
+  font-family: "SpaceMono", sans-serif;
   height: 32px;
   top: -6px;
   position: relative;

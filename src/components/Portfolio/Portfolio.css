@@ -6,13 +6,13 @@
 
 .tags-title {
   font-size: 28px;
-  font-family: PressStart2P;
+  font-family: PressStart2P, sans-serif;
   padding-right: 32px;
   margin: auto;
 }
 
 .tags {
-  font-family: "Overpass";
+  font-family: "Overpass", sans-serif;
   font-size: 20px;
   display: flex;
   justify-content: space-between;
