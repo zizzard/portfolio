@@ -10,10 +10,6 @@ function Contact() {
       </div>
       <div className="contact-row">
         <div className="contact-item">Zach Izzard</div>
-        <div></div>
-      </div>
-      <div className="contact-row">
-        <div className="contact-item">609.731.9486</div>
         <a
           className="contact-link"
           href="https://github.com/zizzard"
